@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\TaskManager\\",
+  "WorkspaceRootPath": "C:\\Users\\ll novbe\\Desktop\\TaskManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DDD66C0-28BB-4561-A580-9201204A7347}|TaskManager.API\\TaskManager.API.csproj|c:\\users\\user\\desktop\\taskmanager\\taskmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1DDD66C0-28BB-4561-A580-9201204A7347}|TaskManager.API\\TaskManager.API.csproj|solutionrelative:taskmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{47D642BE-BF8B-4573-B718-248094135D12}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\ll novbe\\desktop\\taskmanager\\taskmanager.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D642BE-BF8B-4573-B718-248094135D12}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DBBDAA9-BA9E-4D1B-851D-2CD25780EA59}|TaskManager.DAL\\TaskManager.DAL.csproj|c:\\users\\user\\desktop\\taskmanager\\taskmanager.dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DBBDAA9-BA9E-4D1B-851D-2CD25780EA59}|TaskManager.DAL\\TaskManager.DAL.csproj|solutionrelative:taskmanager.dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DDD66C0-28BB-4561-A580-9201204A7347}|TaskManager.API\\TaskManager.API.csproj|c:\\users\\user\\desktop\\taskmanager\\taskmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DDD66C0-28BB-4561-A580-9201204A7347}|TaskManager.API\\TaskManager.API.csproj|solutionrelative:taskmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DBBDAA9-BA9E-4D1B-851D-2CD25780EA59}|TaskManager.DAL\\TaskManager.DAL.csproj|c:\\users\\user\\desktop\\taskmanager\\taskmanager.dal\\migrations\\20250110082157_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DBBDAA9-BA9E-4D1B-851D-2CD25780EA59}|TaskManager.DAL\\TaskManager.DAL.csproj|solutionrelative:taskmanager.dal\\migrations\\20250110082157_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47D642BE-BF8B-4573-B718-248094135D12}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\ll novbe\\desktop\\taskmanager\\taskmanager.core\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D642BE-BF8B-4573-B718-248094135D12}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TaskManager\\TaskManager.API\\appsettings.json",
-              "RelativeDocumentMoniker": "TaskManager.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\user\\Desktop\\TaskManager\\TaskManager.API\\appsettings.json",
-              "RelativeToolTip": "TaskManager.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-10T08:22:48.221Z",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\TaskManager\\TaskManager.Core\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\TaskManager\\TaskManager.Core\\Models\\Employee.cs",
+              "RelativeToolTip": "TaskManager.Core\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:57:13.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250110082157_CreateDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TaskManager\\TaskManager.DAL\\Migrations\\20250110082157_CreateDatabase.cs",
-              "RelativeDocumentMoniker": "TaskManager.DAL\\Migrations\\20250110082157_CreateDatabase.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\TaskManager\\TaskManager.DAL\\Migrations\\20250110082157_CreateDatabase.cs",
-              "RelativeToolTip": "TaskManager.DAL\\Migrations\\20250110082157_CreateDatabase.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T08:21:57.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TaskManager\\TaskManager.API\\Program.cs",
-              "RelativeDocumentMoniker": "TaskManager.API\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\TaskManager\\TaskManager.API\\Program.cs",
-              "RelativeToolTip": "TaskManager.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T08:16:59.194Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TaskManager\\TaskManager.DAL\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "TaskManager.DAL\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\TaskManager\\TaskManager.DAL\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "TaskManager.DAL\\Context\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\TaskManager\\TaskManager.Core\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\TaskManager\\TaskManager.Core\\Models\\Assignment.cs",
+              "RelativeToolTip": "TaskManager.Core\\Models\\Assignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T08:07:44.157Z"
+              "WhenOpened": "2025-01-10T14:53:58.284Z",
+              "EditorCaption": ""
             }
           ]
         }

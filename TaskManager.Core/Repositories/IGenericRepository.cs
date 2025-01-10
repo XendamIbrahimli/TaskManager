@@ -4,7 +4,6 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
-using TaskManager.Core.Models.Common;
 
 namespace TaskManager.Core.Repositories
 {
@@ -17,6 +16,7 @@ namespace TaskManager.Core.Repositories
         Task AddAsync(T entity);
         Task<bool> RemoveAsync(int id);
         void Remove (T entity);
+        Task<int> SaveAsync();
         
     }
 }

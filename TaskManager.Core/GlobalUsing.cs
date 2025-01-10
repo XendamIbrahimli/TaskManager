@@ -1,0 +1,1 @@
+﻿global using TaskManager.Core.Models.Common;
