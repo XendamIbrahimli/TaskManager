@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\TaskManager\TaskManager.BL\bin\Debug\net8.0\TaskManager.BL.deps.json
+C:\Users\user\Desktop\TaskManager\TaskManager.BL\bin\Debug\net8.0\TaskManager.BL.dll
+C:\Users\user\Desktop\TaskManager\TaskManager.BL\bin\Debug\net8.0\TaskManager.BL.pdb
+C:\Users\user\Desktop\TaskManager\TaskManager.BL\bin\Debug\net8.0\TaskManager.Core.dll
+C:\Users\user\Desktop\TaskManager\TaskManager.BL\bin\Debug\net8.0\TaskManager.DAL.dll
+C:\Users\user\Desktop\TaskManager\TaskManager.BL\bin\Debug\net8.0\TaskManager.DAL.pdb
+C:\Users\user\Desktop\TaskManager\TaskManager.BL\bin\Debug\net8.0\TaskManager.Core.pdb
+C:\Users\user\Desktop\TaskManager\TaskManager.BL\obj\Debug\net8.0\TaskManager.BL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TaskManager\TaskManager.BL\obj\Debug\net8.0\TaskManager.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TaskManager\TaskManager.BL\obj\Debug\net8.0\TaskManager.BL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TaskManager\TaskManager.BL\obj\Debug\net8.0\TaskManager.BL.AssemblyInfo.cs
+C:\Users\user\Desktop\TaskManager\TaskManager.BL\obj\Debug\net8.0\TaskManager.BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TaskManager\TaskManager.BL\obj\Debug\net8.0\TaskMana.1142EECA.Up2Date
+C:\Users\user\Desktop\TaskManager\TaskManager.BL\obj\Debug\net8.0\TaskManager.BL.dll
+C:\Users\user\Desktop\TaskManager\TaskManager.BL\obj\Debug\net8.0\refint\TaskManager.BL.dll
+C:\Users\user\Desktop\TaskManager\TaskManager.BL\obj\Debug\net8.0\TaskManager.BL.pdb
+C:\Users\user\Desktop\TaskManager\TaskManager.BL\obj\Debug\net8.0\ref\TaskManager.BL.dll
